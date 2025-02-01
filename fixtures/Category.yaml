@@ -1,0 +1,61 @@
+App\Entity\Categorie:
+  categorie_1:
+    name: "Action"
+    label: "action"
+  categorie_2:
+    name: "Aventure"
+    label: "aventure"
+  categorie_3:
+    name: "Comédie"
+    label: "comedie"
+  categorie_4:
+    name: "Drame"
+    label: "drame"
+  categorie_5:
+    name: "Fantastique"
+    label: "fantastique"
+  categorie_6:
+    name: "Horreur"
+    label: "horreur"
+  categorie_7:
+    name: "Romance"
+    label: "romance"
+  categorie_8:
+    name: "Science-Fiction"
+    label: "science-fiction"
+  categorie_9:
+    name: "Thriller"
+    label: "thriller"
+  categorie_10:
+    name: "Animation"
+    label: "animation"
+  categorie_11:
+    name: "Documentaire"
+    label: "documentaire"
+  categorie_12:
+    name: "Famille"
+    label: "famille"
+  categorie_13:
+    name: "Guerre"
+    label: "guerre"
+  categorie_14:
+    name: "Musical"
+    label: "musical"
+  categorie_15:
+    name: "Policier"
+    label: "policier"
+  categorie_16:
+    name: "Western"
+    label: "western"
+  categorie_17:
+    name: "Biographie"
+    label: "biographie"
+  categorie_18:
+    name: "Historique"
+    label: "historique"
+  categorie_19:
+    name: "Sport"
+    label: "sport"
+  categorie_20:
+    name: "Mystère"
+    label: "mystere"

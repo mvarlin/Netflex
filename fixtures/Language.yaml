@@ -1,0 +1,66 @@
+App\Entity\Language:
+  language_1:
+    name: "Français"
+    code: "FR"
+  language_2:
+    name: "Anglais"
+    code: "EN"
+  language_3:
+    name: "Allemand"
+    code: "DE"
+  language_4:
+    name: "Espagnol"
+    code: "ES"
+  language_5:
+    name: "Italien"
+    code: "IT"
+  language_6:
+    name: "Portugais"
+    code: "PT"
+  language_7:
+    name: "Néerlandais"
+    code: "NL"
+  language_8:
+    name: "Russe"
+    code: "RU"
+  language_9:
+    name: "Chinois"
+    code: "ZH"
+  language_10:
+    name: "Japonais"
+    code: "JA"
+  language_11:
+    name: "Coréen"
+    code: "KO"
+  language_12:
+    name: "Arabe"
+    code: "AR"
+  language_13:
+    name: "Hindi"
+    code: "HI"
+  language_14:
+    name: "Bengali"
+    code: "BN"
+  language_15:
+    name: "Ourdou"
+    code: "UR"
+  language_16:
+    name: "Turc"
+    code: "TR"
+  language_17:
+    name: "Vietnamien"
+    code: "VI"
+  language_18:
+    name: "Thaï"
+    code: "TH"
+  language_19:
+    name: "Grec"
+    code: "EL"
+  language_20:
+    name: "Suédois"
+    code: "SV"
+# A tester avec unkillable demon king
+# App\Entity\Language:
+#   language_{1..5}:
+#     name: <word()>
+#     code: <lexify('??')>
